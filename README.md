@@ -29,7 +29,6 @@ This dataset:
 - Power BI Desktop
 - Power Query for ETL (Extract, Transform, Load)
 - DAX (Data Analysis Expressions)
-- 
 
 ## 🚀 How to View
 1. Download the `.pbix` file
