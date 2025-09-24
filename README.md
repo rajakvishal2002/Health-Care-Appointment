@@ -6,7 +6,6 @@ This Power BI report analyzes patient appointment data from Brazil to identify p
 
 ## 📁 Project Files
 - `Appointment No Show Up.pbix` - Main Power BI dashboard
-- `Screenshots/` - Contains visuals of the dashboard (optional)
 ## 🔍 Dataset Description
 A person schedules a doctor appointment, receives all instructions—and still doesn’t show up. Who’s to blame?
 
